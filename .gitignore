@@ -1,0 +1,15 @@
+.venv/
+work/
+transcript
+vsim.wlf
+Implementation/logs/*
+Implementation/*.cache/
+Implementation/*.hw/
+Implementation/*.ip_user_files/
+Implementation/*.sim/
+Implementation/*.runs/
+Implementation/*.srcs/
+Implementation/*.ioplanning/
+Implementation/testbench/result.log
+Implementation/vector/*
+!Implementation/vector/sampler_test_vectors.py
